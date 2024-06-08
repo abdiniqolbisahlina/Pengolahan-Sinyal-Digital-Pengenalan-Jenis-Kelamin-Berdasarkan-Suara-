@@ -1,0 +1,2 @@
+# Pengolahan-Sinyal-Digital-Pengenalan-Jenis-Kelamin-Berdasarkan-Suara-
+Pengenalan jenis kelamin berdasarkan suara bertujuan untuk mengidentifikasi pola-pola akustik yang berkaitan dengan jenis kelamin, meliputi frekuensi dasar suara, rentang frekuensi mulai dari minimum, maksimum, dan rata-rata nya, serta spektogram dengan pengolahan sinyal digital dan penggunaan algoritma FFT (Fast Fourier Transform).
